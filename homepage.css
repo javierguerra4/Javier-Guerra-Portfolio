@@ -125,11 +125,4 @@ body {
     }
   }
 
-  #profilePicture{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 10%;
-    opacity: 0.5;
-  }
   
