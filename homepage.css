@@ -32,7 +32,8 @@
 .btn-secondary:hover,
 .btn-secondary:focus {
   color: #333;
-  text-shadow: none; /* Prevent inheritance from `body` */
+  text-shadow: none; 
+  /* Prevent inheritance from `body` */
 }
 
 
@@ -105,7 +106,7 @@
    * Dummy devices (replace them with your own or something else entirely!)
    */
   
-  .product-device {
+  /* .product-device {
     position: absolute;
     right: 10%;
     bottom: -30%;
@@ -133,7 +134,7 @@
     bottom: 0;
     left: 5%;
     background-color: #e5e5e5;
-  }
+  } */
   
   
   /*
