@@ -1,3 +1,9 @@
+body{
+  background-image: url("images/blue-clouds.jpg") !important;
+  background-repeat: no-repeat, repeat;
+  background-color: #cccccc !important;
+}
+
 /* Style the header */
 .header {
   padding: 10px 16px;
