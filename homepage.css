@@ -1,7 +1,6 @@
 body{
-  background-image: url("images/blue-clouds.jpg") !important;
   background-repeat: no-repeat, repeat;
-  background-color: #cccccc !important;
+  background-color: rgb(54, 52, 50) !important;
 }
 
 /* Style the header */
