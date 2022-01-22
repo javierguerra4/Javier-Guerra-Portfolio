@@ -1,6 +1,7 @@
 body{
   background-repeat: no-repeat, repeat;
   background-color: rgb(54, 52, 50) !important;
+  font-family: 'Bebas Neue', cursive;
 }
 
 /* Style the header */
@@ -155,5 +156,5 @@ body{
     }
   }
 
-
+  
   
