@@ -1,15 +1,10 @@
-body{
-  background-repeat: no-repeat, repeat;
-  background-color: rgb(54, 52, 50) !important;
-  font-family: 'Bebas Neue', cursive;
-}
-
 /* Style the header */
 .header {
   padding: 10px 16px;
   background:rgb(2, 7, 19);
   color: #f1f1f1;
   border-color: lavender;
+  width: 100%
 }
 
 /* Page content */
@@ -28,6 +23,15 @@ body{
 .sticky + .content {
   padding-top: 102px;
 }
+
+body{
+  background-repeat: no-repeat, repeat;
+  background-color: rgb(54, 52, 50) !important;
+  font-family: 'Bebas Neue', cursive;
+  
+}
+
+
 /*
  * Globals
  */
