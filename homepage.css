@@ -1,7 +1,7 @@
 /* Style the header */
 .header {
   padding: 10px 16px;
-  background:rgb(2, 7, 19);
+  background:#0C0032;
   color: #f1f1f1;
   border-color: lavender;
   width: 100%
@@ -26,7 +26,7 @@
 
 body{
   background-repeat: no-repeat, repeat;
-  background-color: rgb(54, 52, 50) !important;
+  background-color: rgb(0, 0, 0) !important;
   font-family: 'Bebas Neue', cursive;
   
 }
