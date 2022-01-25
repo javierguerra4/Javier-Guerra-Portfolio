@@ -176,5 +176,17 @@ h1, h2, h3{
   }
 
   #portfolio{
+    color: #EDF5E1;
     font-size: 62px;
+  }
+  #bookAlert, #movieApp, #codeupDesign, #mediaQueries{
+    color: #05386B;
+  }
+
+  #bookBack, #movieBack, #codeupBack, #mediaBack{
+    background-color:#EDF5E1 !important;
+  }
+  #javier{
+    color: #EDF5E1;
+
   }
