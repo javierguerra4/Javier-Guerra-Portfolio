@@ -196,3 +196,9 @@ h1, h2, h3{
   .change-blue{
     background-color: #05386B;
   }
+  .azure{
+    background-color: #F0FFFF;
+  }
+  .azure-font{
+    color: #F0FFFF;
+  }
