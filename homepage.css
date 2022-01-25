@@ -186,6 +186,9 @@ h1, h2, h3{
   #bookBack, #movieBack, #codeupBack, #mediaBack{
     background-color:#EDF5E1 !important;
   }
+  #adBack, #weatherBack, #coffeeBack{
+    background-color: #379683 !important;
+  }
   #javier{
     color: #EDF5E1;
 
