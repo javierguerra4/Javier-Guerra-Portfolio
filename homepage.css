@@ -167,10 +167,14 @@ h1, h2, h3{
   }
 
   .personalImg{
-    margin-top: 3 !important;
+    /* margin-top: 6 !important; */
     border-radius: 30px;
   }
   
   .change{
     background-color: #8EE4AF !important;
+  }
+
+  #portfolio{
+    font-size: 62px;
   }
