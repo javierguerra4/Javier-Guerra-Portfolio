@@ -34,7 +34,7 @@ p{
   color: #05386B;
 }
 
-h1, h2, h3{
+h1, h2, h3, .modal-title{
   font-family: 'Bebas Neue', cursive !important;
   
 }
