@@ -137,6 +137,10 @@ h1, h2, h3, .modal-title{
   }
   #adBack, #weatherBack, #coffeeBack{
     background-color: #379683 !important;
+  
+  }
+  #dadBack {
+    background-color: #05386B !important;
   }
   #javier{
     color: #EDF5E1;
