@@ -170,3 +170,10 @@ h3,
 #react-devicon {
   color: #0093d0;
 }
+
+.email-button {
+  margin-top: 20px;
+  width: 150px; /* Adjust as needed */
+  height: 45px; /* Adjust as needed */
+  font-size: 20px; /* Adjust as needed */
+}
