@@ -172,8 +172,10 @@ h3,
 }
 
 .email-button {
-  margin-top: 20px;
   width: 150px; /* Adjust as needed */
   height: 45px; /* Adjust as needed */
   font-size: 20px; /* Adjust as needed */
+}
+.email-button-container {
+  margin: 20px;
 }
